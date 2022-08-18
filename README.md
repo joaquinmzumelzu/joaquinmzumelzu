@@ -6,7 +6,7 @@
 <h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/rquirogah/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/joaquinmzumelzu/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
 </div>
 
 I am a Full Stack developer, with analytical thinking, empathetic, and collaborative, with the ability to solve problems and propose creative solutions. I have experience developing projects using HTML, CSS, JavaScript, TypeScript, React, Redux, NodeJS, ExpressJS, and other technologies in the industry.
@@ -33,7 +33,7 @@ I am a Full Stack developer, with analytical thinking, empathetic, and collabora
 </div>
 <div align="center">
     <h1>Contribution Activity</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=rquirogah&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=joaquinmzumelzu&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" height="200" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rquirogah&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
     <br>
     <br>
